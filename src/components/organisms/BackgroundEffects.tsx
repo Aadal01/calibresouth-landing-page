@@ -76,7 +76,7 @@ export function BackgroundEffects() {
       <EdgeLines />
       <CornerBrackets />
       <div className="fixed inset-0 pointer-events-none animate-breathe z-1"
-        style={{ background: 'radial-gradient(ellipse 70% 55% at 50% 52%, rgba(232,82,26,0.12) 0%, transparent 70%)' }} />
+        style={{ background: 'radial-gradient(ellipse 80% 65% at 50% 52%, rgba(232,82,26,0.22) 0%, transparent 70%)' }} />
     </>
   )
 }
