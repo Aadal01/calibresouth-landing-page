@@ -8,7 +8,7 @@ export function Navbar() {
           <img
             src="/src/assets/logo.PNG"
             alt="CalibreSouth"
-            style={{ width: '36px', height: '36px', objectFit: 'contain' }}
+            style={{ width: '18px', height: '18px', objectFit: 'contain' }}
           />
           <span className="font-display font-black tracking-[0.2em] uppercase text-fg text-brand">
             CALIBRESOUTH
