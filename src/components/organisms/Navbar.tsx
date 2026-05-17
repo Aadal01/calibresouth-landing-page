@@ -1,5 +1,3 @@
-import logo from '../../assets/logo.PNG'
-
 export function Navbar() {
   return (
     <header className="sticky top-0 z-20 animate-fade-up" style={{ animationDelay: '100ms' }}>
@@ -8,7 +6,7 @@ export function Navbar() {
         {/* Logo + wordmark */}
         <div className="flex items-center gap-3">
           <img
-            src={logo}
+            src="/src/assets/logo.PNG"
             alt="CalibreSouth"
             style={{ width: '36px', height: '36px', objectFit: 'contain' }}
           />
