@@ -1,7 +1,7 @@
 function LogoMark() {
   return (
     <img
-      src="/img/logo.PNG"
+      src="src/assets/logo.PNG"
       alt="CalibreSouth Logo"
       className="w-8 h-8 object-contain"
     />
