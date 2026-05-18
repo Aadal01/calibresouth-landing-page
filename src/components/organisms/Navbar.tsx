@@ -6,7 +6,7 @@ export function Navbar() {
         {/* Logo + wordmark */}
         <div className="flex items-center gap-3">
           <img
-            src="src/assets/logo.PNG"
+            src="/assets/logo.PNG"
             alt="CalibreSouth"
             style={{ width: '36px', height: '36px', objectFit: 'contain' }}
           />
